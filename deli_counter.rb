@@ -1,5 +1,6 @@
 # Write your code here.
 katz_deli = []
+
 def line(array)
   line_position = []
   if array.empty?
