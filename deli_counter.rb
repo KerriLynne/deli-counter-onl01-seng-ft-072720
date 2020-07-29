@@ -10,6 +10,6 @@ def line(array)
       line_position << "#{counter}. #{customer}"
       counter += 1
     end
-    puts "The line is currently: #{line_position.join*" ")}"
+    puts "The line is currently: #{line_position.join*" "}"
   end
 end
